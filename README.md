@@ -1,1 +1,1 @@
-Note for practicing RAG using langchain
+Notes for practicing RAG using langchain
